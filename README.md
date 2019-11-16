@@ -1,0 +1,1 @@
+# android_device_nubia_NX629J_V1S_twrp
